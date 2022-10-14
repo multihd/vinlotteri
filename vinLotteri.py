@@ -1,6 +1,6 @@
 import random
 print("Ikke la sigurd kjøre, han er QA og kræsjer programmer")
-print("Skriv inn navn og sum per person: eksempel for Sigud så han klarer å kjøre programmet \n\n Martin 100")
+print("Skriv inn navn og sum per person: eksempel for Sigud så han klarer å kjøre programmet \n Eksempel: Martin 100\n")
 word = ""
 liste = []
 while True:
